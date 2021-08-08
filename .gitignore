@@ -1,2 +1,4 @@
 .terraform*
 *.tfstate*
+gcp_credentials.json
+variables.tf
